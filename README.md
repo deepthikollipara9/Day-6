@@ -1,7 +1,7 @@
 # Day 6 - 12 Feb 2025
 
-1) Exporing how to add csv file to colab notebook from the youtube [link](https://www.youtube.com/watch?v=ZjO-DFVdbeQ)
-2) Exporing function on csv file to colab notebook from youtube [link](https://www.youtube.com/watch?v=dUpyC40cF6Q&list=PLUaB-1hjhk8GZOuylZqLz-Qt9RIdZZMBE)
+1) Exporing how to add csv file to colab notebook from  [youtube](https://www.youtube.com/watch?v=ZjO-DFVdbeQ)
+2) Exporing function on csv file to colab notebook from  [youtube](https://www.youtube.com/watch?v=dUpyC40cF6Q&list=PLUaB-1hjhk8GZOuylZqLz-Qt9RIdZZMBE)
 3) Downloading dump database from the colab notebook which is present
 4) Load rage the dump database to colab by write a query
 5) Generated sample questions using chatgpt
